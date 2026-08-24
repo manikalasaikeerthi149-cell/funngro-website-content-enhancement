@@ -99,11 +99,6 @@ The website has been designed to work across:
 
 ----
 
-> **Important:** Create a folder named `screenshots` inside the project folder and place your actual screenshots there using these filenames:
->
-> * `home-page.png`
-> * `teen-page.png`
-
 ## Technologies Used
 
 * HTML5
