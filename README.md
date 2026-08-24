@@ -108,6 +108,8 @@ The website has been designed to work across:
 * On-page SEO
 * Accessibility best practices
 
+----
+
 ## Files Included
 
 ```text
@@ -132,6 +134,8 @@ The website was checked for:
 * SEO metadata
 * Accessibility attributes
 * ZIP/package integrity
+
+----
 
 ## Conclusion
 
